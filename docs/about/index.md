@@ -10,7 +10,6 @@ hide:
 |:------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|:-----:|:-----:|:---------:|
 |                                     [Alex Pacheco](#alex-pacheco)                                      |       Associate CIO - Advanced Research Computing       | (973) 596-2672 | alex.pacheco@njit.edu | GITC 5401 |
 |                                  [Gedaliah Wolosh](#gedaliah-wolosh)                                   |      Director, High Performance Research Computing      | (973) 596-5436 | gwolosh@njit.edu | GITC 5203 |
-|                                      [David Perel](#david-perel)                                       |      Director, Research and Academic Technologies       | (973) 596-3356 | davidp@njit.edu | GITC 2201 |
 |                                       [Kate Cahill](#kate-cahil)                                       |  Associate Director, High Performance Research Computing  | (973) 596-2721 | katharine.cahill@njit.edu | GITC 2203 |
 |                                      [Kevin Walsh](#kevin-walsh)                                       |  Assistant Director, Advanced Computing Infrastructure  | (973) 596-5747 | walsh@njit.edu | GITC 2202 | |
 
@@ -25,12 +24,10 @@ hide:
 | [Kate Cahill](#kate-cahil)                                       |  Associate Director, High Performance Research Computing  | (973) 596-2721 | katharine.cahill@njit.edu | GITC 2203 |
 | [Abhishek Mukherjee](#abhishek-mukherjee) | Research Computing Facilitator | (973) 642-4132 | abhishek.mukherjee@njit.edu | GITC 2316B |
 
-
 # Research and Academic Technologies
 
 | Name | Title | Phone | Email | Office |
 |:----:|:-----:|:-----:|:-----:|:------:|
-| [David Perel](#david-perel) | Director, Research and Academic Technologies | (973) 596-3356 | davidp@njit.edu | GITC 2201 |
 | Rick Gaine | Research Technology System Administrator | (973) 596-5441 | rgaine@njit.edu | GITC 2316B |
 | Charles Yan | Research Technology Support Specialist | (973) 596-2907 | cyan@njit.edu | GITC 2301 |
 
@@ -54,8 +51,6 @@ Dr. Wolosh has been at NJIT for over twenty years working in research computing.
 
 Schedule an appointment with Gedaliah [![Calendar](../assets/images/googlecalendar-color.svg){ width="20"}](https://calendar.google.com/calendar/selfsched?sstoken=UUdmZjlnUlItR09GfGRlZmF1bHR8YTQ0MmFjMWU4N2ZiODUxZjEzMTIwZGZlMWI4MjlkZjQ)
 
-
-## David Perel
 
 ## Kate Cahill
 
